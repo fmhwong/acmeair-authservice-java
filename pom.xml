@@ -301,11 +301,11 @@
 			<type>war</type>
 		</dependency>
 		<!-- End Configuring javametrics monitoring Dependencies -->
-		<!-- https://mvnrepository.com/artifact/io.jaegertracing/jaeger-client -->
+		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-api -->
 		<dependency>
-		    <groupId>io.jaegertracing</groupId>
-		    <artifactId>jaeger-client</artifactId>
-		    <version>0.34.0</version>
+		    <groupId>org.slf4j</groupId>
+		    <artifactId>slf4j-api</artifactId>
+		    <version>1.7.25</version>
 		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.slf4j/slf4j-jdk14 -->
 		<dependency>
